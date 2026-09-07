@@ -1,0 +1,34 @@
+*{
+    font-family: 'Comic Sans MS', cursive, sans-serif;
+}
+main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+body {
+    background-color: #ddc3a8;
+    color: #7d3c40;
+}
+h1 {
+    font-size: 60px;
+    margin: 0;
+    margin-top: 60px;
+}
+h2 {
+    font-style: italic;
+    font-weight: 500;
+}
+img {
+    width: 300px;
+    border-radius: 20px;
+}
+h3 {
+    font-size: 20px;
+    margin-top: 20px;
+}
+h4 {
+    font-size: 60px;
+    margin-top: 60px;
+}
